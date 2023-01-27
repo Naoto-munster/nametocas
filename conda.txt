@@ -1,3 +1,0 @@
-#conda.txt
-libgcc=5.2.0
-PubChemPy
