@@ -4,7 +4,7 @@ import json
 import pubchempy as pcp
 import re
 
-KEY = st.secrets["DeeplAPIKEY"]["APIKEY"]
+KEY = st.secrets["APIKEY"]
 
 st.write('化合物名からCAS番号を探します')
 t=st.text_input('化合物名を入力', 'ジクロロメタン')
