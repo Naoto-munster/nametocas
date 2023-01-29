@@ -1,3 +1,2 @@
-#conda environment.yml
-libgcc=5.2.0
-PubChemPy
+dependencies:
+  - pubchempy
