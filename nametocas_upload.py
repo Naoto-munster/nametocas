@@ -14,7 +14,7 @@ result = requests.get(
     # 無料版のURL
     "https://api-free.deepl.com/v2/translate",
     params={ 
-        "auth_key": "KEY",
+        "auth_key": KEY,
         "target_lang": "EN",
         "text": t,
     },
