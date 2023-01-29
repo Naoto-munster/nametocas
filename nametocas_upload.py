@@ -1,4 +1,3 @@
-pip install pubchempy
 import streamlit as st
 import requests 
 import json
